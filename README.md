@@ -13,5 +13,6 @@ The whole lifetime software with all the updates costs only 300$.
 Note - In order to access the software updates you will have to contact me and show proof of owning the software
 
 CONTACT - In order for the transaction to be secure and private we only offer contact through the Sessions app
+          
           Sessions ID - 0546725a89cf6839c391fa85209e262a697a7a1e6da97867dc3fe2309dee4dc011
           Payment will only be received in monero.
